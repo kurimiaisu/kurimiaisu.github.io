@@ -13,5 +13,5 @@ export default {
             }
         ]
     },
-    base: './'
+    base: '/kurimiaisu.github.io/'
 }
