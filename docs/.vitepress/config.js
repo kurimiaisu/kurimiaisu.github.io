@@ -13,5 +13,5 @@ export default {
             }
         ]
     },
-    base: '/spiritualworld-docs/'
+    base: '/docs/'
 }
