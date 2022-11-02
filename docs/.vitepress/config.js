@@ -13,5 +13,5 @@ export default {
             }
         ]
     },
-    base: '/docs/'
+    base: '/repo/'
 }
